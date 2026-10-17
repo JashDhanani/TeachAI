@@ -1,4 +1,4 @@
-# TeachAI: Teacher Assistant Chatbot
+# TeachAI: Teaching Assistant Chatbot
 
 A chatbot for teachers. Upload your books, then ask questions or ask it to make a **PPT**, **reading material**, a **quiz paper** and **emails to students**. Nothing is emailed until the teacher approves it.
 
